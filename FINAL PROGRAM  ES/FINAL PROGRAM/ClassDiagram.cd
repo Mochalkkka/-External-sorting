@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ExperimentFunctions">
+    <Position X="4.5" Y="1.25" Width="4" />
+    <Members>
+      <Method Name="almost_sorted_dataset" Hidden="true" />
+      <Method Name="best_case_data" Hidden="true" />
+      <Method Name="dataset_alternating_values" Hidden="true" />
+      <Method Name="duplicate_dataset" Hidden="true" />
+      <Method Name="file_sorted_1" Hidden="true" />
+      <Method Name="generate_random" Hidden="true" />
+      <Method Name="graphic_division" Hidden="true" />
+      <Method Name="worst_case_data" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>IQAAgEAEABABAAAQBIQAAAAAAAACAIQAQAAAAAAAACA=</HashCode>
+      <FileName>ExperimentFunctions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NaturalSort">
+    <Position X="9.5" Y="1.25" Width="2" />
+    <Members>
+      <Field Name="merge_time" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAICAAAAAAAAAAAAAAAAACAAAAAAAEAAAAhAAAEA=</HashCode>
+      <FileName>NaturalSort.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleSort">
+    <Position X="9.5" Y="5.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAhgAEEA=</HashCode>
+      <FileName>SimpleSort.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestFunctions">
+    <Position X="4.5" Y="4.5" Width="4.5" />
+    <Members>
+      <Method Name="file_sorted" Hidden="true" />
+      <Method Name="generate_almost_sorted_data_500_elements" Hidden="true" />
+      <Method Name="generate_alternating_positive_negative_data_100_elements" Hidden="true" />
+      <Method Name="generate_alternating_values_data_50_elements" Hidden="true" />
+      <Method Name="generate_data_with_duplicates_200_elements" Hidden="true" />
+      <Method Name="generate_data_with_negatives_100_elements" Hidden="true" />
+      <Method Name="generate_identical_elements_data_50_elements" Hidden="true" />
+      <Method Name="generate_large_data_set_10000_elements" Hidden="true" />
+      <Method Name="generate_large_numbers_data_50_elements" Hidden="true" />
+      <Method Name="generate_large_range_data_100_elements" Hidden="true" />
+      <Method Name="generate_random_data_500_elements" Hidden="true" />
+      <Method Name="generate_reverse_order_data_100_elements" Hidden="true" />
+      <Method Name="generate_single_element_data" Hidden="true" />
+      <Method Name="generate_zeros_and_negatives_data_100_elements" Hidden="true" />
+      <Method Name="generate_zeros_and_positives_data_100_elements" Hidden="true" />
+      <Method Name="graphic_division" Hidden="true" />
+      <Method Name="Print_File" Hidden="true" />
+      <Method Name="test_10_natural_sort_generate_alternating_values_data_50_elements" Hidden="true" />
+      <Method Name="test_10_simple_sort_generate_alternating_values_data_50_elements" Hidden="true" />
+      <Method Name="test_11_natural_sort_generate_alternating_positive_negative_data_100_elements" Hidden="true" />
+      <Method Name="test_11_simple_sort_generate_alternating_positive_negative_data_100_elements" Hidden="true" />
+      <Method Name="test_12_natural_sort_generate_large_numbers_data_50_elements" Hidden="true" />
+      <Method Name="test_12_simple_sort_generate_large_numbers_data_50_elements" Hidden="true" />
+      <Method Name="test_13_natural_sort_generate_large_data_set_10000_elements" Hidden="true" />
+      <Method Name="test_13_simple_sort_generate_large_data_set_10000_elements" Hidden="true" />
+      <Method Name="test_14_natural_sort_generate_single_element_data" Hidden="true" />
+      <Method Name="test_14_simple_sort_generate_single_element_data" Hidden="true" />
+      <Method Name="test_9_natural_sort_generate_zeros_and_negatives_data_100_elements" Hidden="true" />
+      <Method Name="test_9_simple_sort_generate_zeros_and_negatives_data_100_elements" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AQBATiIANgAAABQBAIgBgNaQoEECAAAChgAQgIAxQBA=</HashCode>
+      <FileName>TestFunctions.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Programm">
+    <Position X="1.75" Y="3" Width="2" />
+    <Members>
+      <Method Name="graphic_division" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AQAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAIAAQAA=</HashCode>
+      <FileName>Programm.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
